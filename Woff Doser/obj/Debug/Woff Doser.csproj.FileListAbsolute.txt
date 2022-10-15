@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Woff Doser\Woff Doser\bin\Debug\Woff Doser.exe.config
+C:\Users\ASUS\source\repos\Woff Doser\Woff Doser\bin\Debug\Woff Doser.exe
+C:\Users\ASUS\source\repos\Woff Doser\Woff Doser\bin\Debug\Woff Doser.pdb
+C:\Users\ASUS\source\repos\Woff Doser\Woff Doser\obj\Debug\Woff Doser.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Woff Doser\Woff Doser\obj\Debug\Woff Doser.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Woff Doser\Woff Doser\obj\Debug\Woff Doser.exe
+C:\Users\ASUS\source\repos\Woff Doser\Woff Doser\obj\Debug\Woff Doser.pdb
